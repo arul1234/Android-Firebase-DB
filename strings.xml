@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KL Guessing</string>
+    <string name="all_board">All Board</string>
+    <string name="single_board">Single Board</string>
+    <string name="three_digit">Three Digit</string>
+    <string name="four_digit">Four Digit</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-ca-app-pub-3940256099942544/6300978111</string>
+</resources>
